@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\bin\Debug\Examen Unidad 5 Radix.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\obj\Debug\Examen Unidad 5 Radix.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\bin\Debug\Examen Unidad 5 Radix.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\bin\Debug\Examen Unidad 5 Radix.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\obj\Debug\Examen Unidad 5 Radix.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Unidad 5 Radix\Examen Unidad 5 Radix\obj\Debug\Examen Unidad 5 Radix.pdb
